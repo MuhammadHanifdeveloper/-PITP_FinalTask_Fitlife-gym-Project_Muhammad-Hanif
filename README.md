@@ -26,7 +26,7 @@ Live Demo: [https://hanif-final-pitp-project.vercel.app/](https://hanif-final-pi
 ## Screenshots
 
 ### Homepage
-![Homepage](./assets/capture.png)  <!-- Add actual screenshot -->
+![Homepage](project/assets/Capture.PNG)  <!-- Add actual screenshot -->
 
 ### Contact Page
 ![Contact Page](./assets/screenshot-contact.png)
