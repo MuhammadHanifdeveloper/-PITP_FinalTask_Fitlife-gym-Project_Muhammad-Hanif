@@ -26,10 +26,22 @@ Live Demo: [https://hanif-final-pitp-project.vercel.app/](https://hanif-final-pi
 ## Screenshots
 
 ### Homepage
-![Homepage](project/assets/Capture.PNG)  <!-- Add actual screenshot -->
+![Homepage](project/assets/Capture.PNG)
+![Homepage](project/assets/home2.png)
+![Homepage](project/assets/home3.png)  <!-- Add actual screenshot -->
+
+### About Page
+![Abour Page](project/assets/about1.png)
+![Abour Page](project/assets/about2.png)
+![Abour Page](project/assets/about3.png)
+![Abour Page](project/assets/about4.png)
+
 
 ### Contact Page
-![Contact Page](./assets/screenshot-contact.png)
+![Contact Page](project/assets/con1.png)
+![Contact Page](project/assets/con2.png)
+![Contact Page](project/assets/con3.png)
+![Contact Page](project/assets/con4.png)
 
 ### Map Section
 ![Map Section](./assets/screenshot-map.png)
