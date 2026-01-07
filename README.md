@@ -37,14 +37,27 @@ Live Demo: [https://hanif-final-pitp-project.vercel.app/](https://hanif-final-pi
 ![Abour Page](project/assets/about4.png)
 
 
+### Service Page
+![Contact Page](project/assets/ser1.png)
+![Contact Page](project/assets/ser2.png)
+![Contact Page](project/assets/ser3.png)
+![Contact Page](project/assets/ser4.png)
+
+
+### Classes Page
+![Contact Page](project/assets/cla1.png)
+![Contact Page](project/assets/cla2.png)
+![Contact Page](project/assets/cla3.png)
+![Contact Page](project/assets/cla4.png)
+![Contact Page](project/assets/cla5.png)
+
+
+
 ### Contact Page
 ![Contact Page](project/assets/con1.png)
 ![Contact Page](project/assets/con2.png)
 ![Contact Page](project/assets/con3.png)
 ![Contact Page](project/assets/con4.png)
-
-### Map Section
-![Map Section](./assets/screenshot-map.png)
 
 ---
 
