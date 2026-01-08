@@ -1,6 +1,5 @@
 # FitLife Gym Website
 
-![FitLife Logo](project/assets/logo.PNG)  <!-- Replace with actual logo image -->
 
 ## Project Overview
 **FitLife Gym** is a modern, responsive, and fully functional fitness website built for a fictional gym brand.  
